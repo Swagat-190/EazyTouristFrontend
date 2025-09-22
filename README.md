@@ -1,15 +1,6 @@
 # EazyTourist Frontend# React + TypeScript + Vite
-
-
-
 A modern, responsive React application for flight booking and travel management, built with TypeScript and featuring a beautiful, animated UI.This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-
-
 ## 🚀 FeaturesCurrently, two official plugins are available:
-
-
-
 ### Authentication- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 
 - **User Registration** - Create new accounts with email and password- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
@@ -17,9 +8,6 @@ A modern, responsive React application for flight booking and travel management,
 - **User Login** - Secure authentication with JWT tokens
 
 - **Auto-login** - Persistent sessions using localStorage## Expanding the ESLint configuration
-
-
-
 ### Flight ManagementIf you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
 - **Flight Search** - Search flights by origin and destination
@@ -260,5 +248,6 @@ Your EazyTourist frontend is now ready! The application features:
 
 **Happy Traveling with EazyTourist! ✈️🌍**
 
-*Ready to explore the world? Your journey starts here!*#   E a z y T o u r i s t F r o n t e n d  
+*Ready to explore the world? Your journey starts here!*#   E a z y T o u r i s t F r o n t e n d 
+ 
  
